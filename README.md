@@ -13,7 +13,7 @@
 
 ✔ My problem-solving skills and meticulous attention to detail have enabled me to overcome various challenges in previous projects, demonstrating my ability to thrive in dynamic and fast-paced environments.<br>
 
-✔ I am open to work now. 🤝 Let's build great things you want together!
+✨I am open to work now. 🤝 Let's build great things you want together!
 
 ## 💻 Tech Stack
 
