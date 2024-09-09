@@ -209,9 +209,4 @@ I would be happy if you follow me on GitHub. 😍👍
    </tr>
 </table>
 
-## 🔗 Links
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:@gmail.com)
-[![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yjfihjnWnqEZ)
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
