@@ -213,7 +213,5 @@ I would be happy if you follow me on GitHub. 😍👍
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:@gmail.com)
 [![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yjfihjnWnqEZ)
-[![discord](https://img.shields.io/badge/discord-%231E77B5.svg?&style=for-the-badge&logo=discord&=white)](https://discord.gg/rX25PRMMjC)
-[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/hukha77)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
